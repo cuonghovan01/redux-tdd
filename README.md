@@ -4,7 +4,7 @@
 
 ### Install
 
-`npm install --save redux-tdd`
+`npm install --save redux-tdd `
 
 ```js
 import ReduxTdd from 'redux-tdd';
